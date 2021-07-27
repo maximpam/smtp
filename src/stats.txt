@@ -1,0 +1,1030 @@
+
+April 14, 2021, 6:19 am
+1st Day Cohort
+Campaign_ID:15216203
+Sent:13974
+Campaign_ID:15216205
+Sent:13973
+Campaign_ID:15216206
+Sent:13973
+Campaign_ID:15312686
+Sent:13972
+Campaign_ID:15452037
+Sent:13972
+Campaign_ID:15452038
+Sent:13972
+Campaign_ID:15452039
+Sent:13971
+Campaign_ID:15452040
+Sent:13972
+Totally sent: 111779
+________________________________________
+2nd Day Cohort
+Campaign_ID:15216684
+Sent:15540
+Campaign_ID:15216685
+Sent:15540
+Campaign_ID:15216686
+Sent:15539
+Campaign_ID:15216687
+Sent:15539
+Campaign_ID:15312710
+Sent:15539
+Campaign_ID:15343013
+Sent:15538
+Campaign_ID:15452061
+Sent:15539
+Campaign_ID:15452062
+Sent:15539
+Totally sent: 124313
+________________________________________
+3rd Day Cohort
+Campaign_ID:15217175
+Sent:13610
+Campaign_ID:15217176
+Sent:13610
+Campaign_ID:15217177
+Sent:13610
+Campaign_ID:15217178
+Sent:13610
+Campaign_ID:15312768
+Sent:13610
+Campaign_ID:15343345
+Sent:13610
+Campaign_ID:15452391
+Sent:13608
+Campaign_ID:15452392
+Sent:13610
+Totally sent: 108878
+________________________________________
+4th Day Cohort
+Campaign_ID:15218025
+Sent:12276
+Campaign_ID:15218026
+Sent:12276
+Campaign_ID:15218027
+Sent:12276
+Campaign_ID:15218028
+Sent:12275
+Campaign_ID:15312796
+Sent:12276
+Campaign_ID:15343385
+Sent:12276
+Campaign_ID:15451661
+Sent:12276
+Campaign_ID:15451662
+Sent:12276
+Totally sent: 98207
+________________________________________
+5th Day Cohort
+Campaign_ID:15218167
+Sent:10035
+Campaign_ID:15218168
+Sent:10035
+Campaign_ID:15218169
+Sent:10034
+Campaign_ID:15218170
+Sent:10035
+Campaign_ID:15312813
+Sent:10035
+Campaign_ID:15343425
+Sent:10035
+Campaign_ID:15451925
+Sent:10034
+Campaign_ID:15452020
+Sent:10035
+Totally sent: 80278
+________________________________________
+6th Day Cohort
+Campaign_ID:15219453
+Sent:8522
+Campaign_ID:15219454
+Sent:8522
+Campaign_ID:15219455
+Sent:8522
+Campaign_ID:15219456
+Sent:8522
+Campaign_ID:15312829
+Sent:8521
+Campaign_ID:15452514
+Sent:8521
+Campaign_ID:15452515
+Sent:8521
+Campaign_ID:15452516
+Sent:8521
+Totally sent: 68172
+________________________________________
+7th Day Cohort
+Campaign_ID:15224426
+Sent:8149
+Campaign_ID:15224427
+Sent:8149
+Campaign_ID:15224428
+Sent:8149
+Campaign_ID:15224429
+Sent:8149
+Campaign_ID:15312863
+Sent:8149
+Campaign_ID:15452652
+Sent:8149
+Campaign_ID:15452653
+Sent:8149
+Campaign_ID:15452654
+Sent:8149
+Totally sent: 65192
+________________________________________
+8th Day Cohort
+Campaign_ID:15225018
+Sent:5451
+Campaign_ID:15225019
+Sent:5451
+Campaign_ID:15225020
+Sent:5451
+Campaign_ID:15225021
+Sent:5451
+Campaign_ID:15312870
+Sent:5451
+Campaign_ID:15452703
+Sent:5451
+Campaign_ID:15452704
+Sent:5451
+Campaign_ID:15452705
+Sent:5451
+Totally sent: 43608
+________________________________________
+20th Day Cohort
+Campaign_ID:15226067
+Sent:6453
+Campaign_ID:15480172
+Sent:6454
+Campaign_ID:15480174
+Sent:6454
+Campaign_ID:15480175
+Sent:6454
+Campaign_ID:15480177
+Sent:6454
+Campaign_ID:15480178
+Sent:6454
+Campaign_ID:15480179
+Sent:6454
+Campaign_ID:15480180
+Sent:6454
+Totally sent: 51631
+________________________________________
+21st Day Cohort
+Campaign_ID:15271046
+Sent:27979
+Campaign_ID:15480527
+Sent:27979
+Campaign_ID:15480528
+Sent:27979
+Campaign_ID:15480529
+Sent:27979
+Campaign_ID:15480531
+Sent:27979
+Campaign_ID:15480532
+Sent:27978
+Campaign_ID:15480533
+Sent:27979
+Campaign_ID:15480534
+Sent:27979
+Totally sent: 223831
+________________________________________
+22nd Day Cohort
+Campaign_ID:15271062
+Sent:307
+Campaign_ID:15480643
+Sent:307
+Campaign_ID:15480644
+Sent:307
+Campaign_ID:15480645
+Sent:307
+Campaign_ID:15480646
+Sent:307
+Campaign_ID:15480647
+Sent:307
+Campaign_ID:15480648
+Sent:307
+Campaign_ID:15480649
+Sent:307
+Totally sent: 2456
+________________________________________
+23rd Day Cohort
+Campaign_ID:15271077
+Sent:291
+Campaign_ID:15480694
+Sent:291
+Campaign_ID:15480695
+Sent:291
+Campaign_ID:15480770
+Sent:291
+Campaign_ID:15480771
+Sent:291
+Campaign_ID:15480772
+Sent:291
+Campaign_ID:15480773
+Sent:291
+Campaign_ID:15480774
+Sent:291
+Totally sent: 2328
+________________________________________
+24th Day Cohort
+Campaign_ID:15271095
+Sent:225
+Campaign_ID:15482155
+Sent:225
+Campaign_ID:15482156
+Sent:225
+Campaign_ID:15482157
+Sent:225
+Campaign_ID:15482158
+Sent:225
+Campaign_ID:15482159
+Sent:225
+Campaign_ID:15482184
+Sent:225
+Campaign_ID:15482185
+Sent:225
+Totally sent: 1800
+________________________________________
+25th Day Cohort
+Campaign_ID:15271109
+Sent:3695
+Campaign_ID:15482486
+Sent:3695
+Campaign_ID:15482487
+Sent:3695
+Campaign_ID:15482488
+Sent:3695
+Campaign_ID:15482489
+Sent:3695
+Campaign_ID:15482490
+Sent:3695
+Campaign_ID:15482491
+Sent:3695
+Campaign_ID:15482492
+Sent:3695
+Totally sent: 29560
+________________________________________
+26th Day Cohort
+Campaign_ID:15271120
+Sent:6011
+Campaign_ID:15482803
+Sent:6011
+Campaign_ID:15482804
+Sent:6011
+Campaign_ID:15482806
+Sent:6011
+Campaign_ID:15482807
+Sent:6011
+Campaign_ID:15482808
+Sent:6011
+Campaign_ID:15482809
+Sent:6011
+Campaign_ID:15482810
+Sent:6011
+Totally sent: 48088
+________________________________________
+27th Day Cohort
+Campaign_ID:15271130
+Sent:6137
+Campaign_ID:15483002
+Sent:6137
+Campaign_ID:15483003
+Sent:6137
+Campaign_ID:15483004
+Sent:6137
+Campaign_ID:15483005
+Sent:6137
+Campaign_ID:15483006
+Sent:7741
+Campaign_ID:15483007
+Sent:6137
+Campaign_ID:15483008
+Sent:6137
+Totally sent: 50700
+________________________________________
+40th Day Cohort
+Campaign_ID:15332274
+Sent:6226
+Campaign_ID:15681383
+Sent:6226
+Campaign_ID:15681384
+Sent:3790
+Campaign_ID:15681385
+Sent:3790
+Campaign_ID:15681386
+Sent:3790
+Campaign_ID:15681387
+Sent:3790
+Campaign_ID:15681388
+Sent:3790
+Campaign_ID:15681389
+Sent:3790
+Totally sent: 35192
+________________________________________
+41st Day Cohort
+Campaign_ID:15332305
+Sent:5108
+Campaign_ID:15681677
+Sent:5108
+Campaign_ID:15681678
+Sent:3011
+Campaign_ID:15681679
+Sent:3011
+Campaign_ID:15681680
+Sent:3011
+Campaign_ID:15681681
+Sent:3011
+Campaign_ID:15681682
+Sent:3011
+Campaign_ID:15681692
+Sent:3011
+Totally sent: 28282
+________________________________________
+42nd Day Cohort
+Campaign_ID:15344164
+Sent:6568
+Campaign_ID:15681903
+Sent:3118
+Campaign_ID:15681904
+Sent:3118
+Campaign_ID:15681905
+Sent:3118
+Campaign_ID:15681906
+Sent:3118
+Campaign_ID:15681907
+Sent:3118
+Campaign_ID:15681908
+Sent:3118
+Campaign_ID:15681909
+Sent:3118
+Totally sent: 28394
+________________________________________
+43rd Day Cohort
+Campaign_ID:15344179
+Sent:6034
+Campaign_ID:15682597
+Sent:3419
+Campaign_ID:15682599
+Sent:3419
+Campaign_ID:15682600
+Sent:3419
+Campaign_ID:15682601
+Sent:3419
+Campaign_ID:15682602
+Sent:3419
+Campaign_ID:15682604
+Sent:3419
+Campaign_ID:15682605
+Sent:3419
+Totally sent: 29967
+________________________________________
+44th Day Cohort
+Campaign_ID:15344190
+Sent:6910
+Campaign_ID:15682794
+Sent:4064
+Campaign_ID:15682795
+Sent:4064
+Campaign_ID:15682796
+Sent:4064
+Campaign_ID:15682797
+Sent:4064
+Campaign_ID:15682798
+Sent:4064
+Campaign_ID:15682799
+Sent:4064
+Campaign_ID:15682800
+Sent:4064
+Totally sent: 35358
+________________________________________
+45th Day Cohort
+Campaign_ID:15344196
+Sent:5742
+Campaign_ID:15683039
+Sent:3593
+Campaign_ID:15683040
+Sent:3593
+Campaign_ID:15683041
+Sent:3593
+Campaign_ID:15683042
+Sent:3593
+Campaign_ID:15683043
+Sent:3593
+Campaign_ID:15683044
+Sent:3593
+Campaign_ID:15683045
+Sent:3593
+Totally sent: 30893
+________________________________________
+46th Day Cohort
+Campaign_ID:15344214
+Sent:3473
+Campaign_ID:15683214
+Sent:3288
+Campaign_ID:15683215
+Sent:3288
+Campaign_ID:15683216
+Sent:3288
+Campaign_ID:15683217
+Sent:3288
+Campaign_ID:15683218
+Sent:3288
+Campaign_ID:15683219
+Sent:3288
+Campaign_ID:15683220
+Sent:3288
+Totally sent: 26489
+________________________________________
+50th Day Cohort
+Campaign_ID:15673778
+Sent:31
+Campaign_ID:15683694
+Sent:4
+Campaign_ID:15683695
+Sent:4
+Campaign_ID:15683697
+Sent:4
+Campaign_ID:15683698
+Sent:4
+Campaign_ID:15683699
+Sent:4
+Campaign_ID:15683700
+Sent:4
+Campaign_ID:15683701
+Sent:4
+Totally sent: 59
+________________________________________
+51st Day Cohort
+Campaign_ID:15673898
+Sent:35
+Campaign_ID:16146369
+Sent:19
+Campaign_ID:16146370
+Sent:19
+Campaign_ID:16146372
+Sent:19
+Campaign_ID:16146373
+Sent:19
+Campaign_ID:16146374
+Sent:19
+Campaign_ID:16146376
+Sent:19
+Campaign_ID:16146377
+Sent:19
+Totally sent: 168
+________________________________________
+52nd Day Cohort
+Campaign_ID:15674708
+Sent:90
+Campaign_ID:16147164
+Sent:26
+Campaign_ID:16147165
+Sent:26
+Campaign_ID:16147166
+Sent:26
+Campaign_ID:16147167
+Sent:26
+Campaign_ID:16147168
+Sent:26
+Campaign_ID:16147169
+Sent:26
+Campaign_ID:16147170
+Sent:26
+Totally sent: 272
+________________________________________
+53rd Day Cohort
+Campaign_ID:15902063
+Sent:152
+Campaign_ID:15902064
+Sent:72
+Campaign_ID:16154020
+Sent:72
+Campaign_ID:16154021
+Sent:72
+Campaign_ID:16154022
+Sent:72
+Campaign_ID:16154023
+Sent:72
+Campaign_ID:16154024
+Sent:72
+Campaign_ID:16154025
+Sent:72
+Totally sent: 656
+________________________________________
+
+April 15, 2021, 6:25 am
+1st Day Cohort
+Campaign_ID:15216203
+Sent:11532
+Campaign_ID:15216205
+Sent:11532
+Campaign_ID:15216206
+Sent:11532
+Campaign_ID:15312686
+Sent:11532
+Campaign_ID:15452037
+Sent:11532
+Campaign_ID:15452038
+Sent:11532
+Campaign_ID:15452039
+Sent:11531
+Campaign_ID:15452040
+Sent:11531
+Totally sent: 92254
+________________________________________
+2nd Day Cohort
+Campaign_ID:15216684
+Sent:13974
+Campaign_ID:15216685
+Sent:13974
+Campaign_ID:15216686
+Sent:13974
+Campaign_ID:15216687
+Sent:13974
+Campaign_ID:15312710
+Sent:13974
+Campaign_ID:15343013
+Sent:13974
+Campaign_ID:15452061
+Sent:13974
+Campaign_ID:15452062
+Sent:13974
+Totally sent: 111792
+________________________________________
+3rd Day Cohort
+Campaign_ID:15217175
+Sent:15540
+Campaign_ID:15217176
+Sent:15540
+Campaign_ID:15217177
+Sent:15540
+Campaign_ID:15217178
+Sent:15540
+Campaign_ID:15312768
+Sent:15539
+Campaign_ID:15343345
+Sent:15539
+Campaign_ID:15452391
+Sent:15539
+Campaign_ID:15452392
+Sent:15539
+Totally sent: 124316
+________________________________________
+4th Day Cohort
+Campaign_ID:15218025
+Sent:13610
+Campaign_ID:15218026
+Sent:13610
+Campaign_ID:15218027
+Sent:13610
+Campaign_ID:15218028
+Sent:13610
+Campaign_ID:15312796
+Sent:13610
+Campaign_ID:15343385
+Sent:13610
+Campaign_ID:15451661
+Sent:13610
+Campaign_ID:15451662
+Sent:13610
+Totally sent: 108880
+________________________________________
+5th Day Cohort
+Campaign_ID:15218167
+Sent:12277
+Campaign_ID:15218168
+Sent:12277
+Campaign_ID:15218169
+Sent:12277
+Campaign_ID:15218170
+Sent:12277
+Campaign_ID:15312813
+Sent:12277
+Campaign_ID:15343425
+Sent:12277
+Campaign_ID:15451925
+Sent:12277
+Campaign_ID:15452020
+Sent:12277
+Totally sent: 98216
+________________________________________
+6th Day Cohort
+Campaign_ID:15219453
+Sent:10037
+Campaign_ID:15219454
+Sent:10037
+Campaign_ID:15219455
+Sent:10037
+Campaign_ID:15219456
+Sent:10037
+Campaign_ID:15312829
+Sent:10037
+Campaign_ID:15452514
+Sent:10037
+Campaign_ID:15452515
+Sent:10037
+Campaign_ID:15452516
+Sent:10037
+Totally sent: 80296
+________________________________________
+7th Day Cohort
+Campaign_ID:15224426
+Sent:8523
+Campaign_ID:15224427
+Sent:8523
+Campaign_ID:15224428
+Sent:8523
+Campaign_ID:15224429
+Sent:8523
+Campaign_ID:15312863
+Sent:8523
+Campaign_ID:15452652
+Sent:8523
+Campaign_ID:15452653
+Sent:8523
+Campaign_ID:15452654
+Sent:8523
+Totally sent: 68184
+________________________________________
+8th Day Cohort
+Campaign_ID:15225018
+Sent:8150
+Campaign_ID:15225019
+Sent:8150
+Campaign_ID:15225020
+Sent:8150
+Campaign_ID:15225021
+Sent:8150
+Campaign_ID:15312870
+Sent:8150
+Campaign_ID:15452703
+Sent:8150
+Campaign_ID:15452704
+Sent:8150
+Campaign_ID:15452705
+Sent:8150
+Totally sent: 65200
+________________________________________
+20th Day Cohort
+Campaign_ID:15226067
+Sent:6803
+Campaign_ID:15480172
+Sent:6803
+Campaign_ID:15480174
+Sent:6803
+Campaign_ID:15480175
+Sent:6803
+Campaign_ID:15480177
+Sent:6803
+Campaign_ID:15480178
+Sent:6803
+Campaign_ID:15480179
+Sent:6803
+Campaign_ID:15480180
+Sent:6803
+Totally sent: 54424
+________________________________________
+21st Day Cohort
+Campaign_ID:15271046
+Sent:6454
+Campaign_ID:15480527
+Sent:6454
+Campaign_ID:15480528
+Sent:6454
+Campaign_ID:15480529
+Sent:6454
+Campaign_ID:15480531
+Sent:6454
+Campaign_ID:15480532
+Sent:6454
+Campaign_ID:15480533
+Sent:6454
+Campaign_ID:15480534
+Sent:6454
+Totally sent: 51632
+________________________________________
+22nd Day Cohort
+Campaign_ID:15271062
+Sent:27979
+Campaign_ID:15480643
+Sent:27979
+Campaign_ID:15480644
+Sent:27979
+Campaign_ID:15480645
+Sent:27979
+Campaign_ID:15480646
+Sent:27979
+Campaign_ID:15480647
+Sent:27979
+Campaign_ID:15480648
+Sent:27979
+Campaign_ID:15480649
+Sent:27979
+Totally sent: 223832
+________________________________________
+23rd Day Cohort
+Campaign_ID:15271077
+Sent:307
+Campaign_ID:15480694
+Sent:307
+Campaign_ID:15480695
+Sent:307
+Campaign_ID:15480770
+Sent:307
+Campaign_ID:15480771
+Sent:307
+Campaign_ID:15480772
+Sent:307
+Campaign_ID:15480773
+Sent:307
+Campaign_ID:15480774
+Sent:307
+Totally sent: 2456
+________________________________________
+24th Day Cohort
+Campaign_ID:15271095
+Sent:291
+Campaign_ID:15482155
+Sent:291
+Campaign_ID:15482156
+Sent:291
+Campaign_ID:15482157
+Sent:291
+Campaign_ID:15482158
+Sent:291
+Campaign_ID:15482159
+Sent:291
+Campaign_ID:15482184
+Sent:291
+Campaign_ID:15482185
+Sent:291
+Totally sent: 2328
+________________________________________
+25th Day Cohort
+Campaign_ID:15271109
+Sent:225
+Campaign_ID:15482486
+Sent:225
+Campaign_ID:15482487
+Sent:225
+Campaign_ID:15482488
+Sent:225
+Campaign_ID:15482489
+Sent:225
+Campaign_ID:15482490
+Sent:225
+Campaign_ID:15482491
+Sent:225
+Campaign_ID:15482492
+Sent:225
+Totally sent: 1800
+________________________________________
+26th Day Cohort
+Campaign_ID:15271120
+Sent:3695
+Campaign_ID:15482803
+Sent:3695
+Campaign_ID:15482804
+Sent:3695
+Campaign_ID:15482806
+Sent:3695
+Campaign_ID:15482807
+Sent:3695
+Campaign_ID:15482808
+Sent:3695
+Campaign_ID:15482809
+Sent:3695
+Campaign_ID:15482810
+Sent:3695
+Totally sent: 29560
+________________________________________
+27th Day Cohort
+Campaign_ID:15271130
+Sent:6011
+Campaign_ID:15483002
+Sent:6011
+Campaign_ID:15483003
+Sent:6011
+Campaign_ID:15483004
+Sent:6011
+Campaign_ID:15483005
+Sent:6011
+Campaign_ID:15483006
+Sent:12148
+Campaign_ID:15483007
+Sent:6011
+Campaign_ID:15483008
+Sent:6011
+Totally sent: 54225
+________________________________________
+40th Day Cohort
+Campaign_ID:15332274
+Sent:7734
+Campaign_ID:15681383
+Sent:7734
+Campaign_ID:15681384
+Sent:7734
+Campaign_ID:15681385
+Sent:7734
+Campaign_ID:15681386
+Sent:7734
+Campaign_ID:15681387
+Sent:7734
+Campaign_ID:15681388
+Sent:7734
+Campaign_ID:15681389
+Sent:7734
+Totally sent: 61872
+________________________________________
+41st Day Cohort
+Campaign_ID:15332305
+Sent:6226
+Campaign_ID:15681677
+Sent:6226
+Campaign_ID:15681678
+Sent:6226
+Campaign_ID:15681679
+Sent:6226
+Campaign_ID:15681680
+Sent:6226
+Campaign_ID:15681681
+Sent:6226
+Campaign_ID:15681682
+Sent:6226
+Campaign_ID:15681692
+Sent:6226
+Totally sent: 49808
+________________________________________
+42nd Day Cohort
+Campaign_ID:15344164
+Sent:5108
+Campaign_ID:15681903
+Sent:5108
+Campaign_ID:15681904
+Sent:5108
+Campaign_ID:15681905
+Sent:5108
+Campaign_ID:15681906
+Sent:5108
+Campaign_ID:15681907
+Sent:5108
+Campaign_ID:15681908
+Sent:5108
+Campaign_ID:15681909
+Sent:5108
+Totally sent: 40864
+________________________________________
+43rd Day Cohort
+Campaign_ID:15344179
+Sent:6569
+Campaign_ID:15682597
+Sent:6569
+Campaign_ID:15682599
+Sent:6569
+Campaign_ID:15682600
+Sent:6569
+Campaign_ID:15682601
+Sent:6569
+Campaign_ID:15682602
+Sent:6569
+Campaign_ID:15682604
+Sent:6569
+Campaign_ID:15682605
+Sent:6569
+Totally sent: 52552
+________________________________________
+44th Day Cohort
+Campaign_ID:15344190
+Sent:6034
+Campaign_ID:15682794
+Sent:6034
+Campaign_ID:15682795
+Sent:6034
+Campaign_ID:15682796
+Sent:6034
+Campaign_ID:15682797
+Sent:6034
+Campaign_ID:15682798
+Sent:6034
+Campaign_ID:15682799
+Sent:6034
+Campaign_ID:15682800
+Sent:6034
+Totally sent: 48272
+________________________________________
+45th Day Cohort
+Campaign_ID:15344196
+Sent:6911
+Campaign_ID:15683039
+Sent:6911
+Campaign_ID:15683040
+Sent:6911
+Campaign_ID:15683041
+Sent:6911
+Campaign_ID:15683042
+Sent:6911
+Campaign_ID:15683043
+Sent:6911
+Campaign_ID:15683044
+Sent:6911
+Campaign_ID:15683045
+Sent:6911
+Totally sent: 55288
+________________________________________
+46th Day Cohort
+Campaign_ID:15344214
+Sent:5742
+Campaign_ID:15683214
+Sent:5742
+Campaign_ID:15683215
+Sent:5742
+Campaign_ID:15683216
+Sent:5742
+Campaign_ID:15683217
+Sent:5742
+Campaign_ID:15683218
+Sent:5742
+Campaign_ID:15683219
+Sent:5742
+Campaign_ID:15683220
+Sent:5742
+Totally sent: 45936
+________________________________________
+50th Day Cohort
+Campaign_ID:15673778
+Sent:8
+Campaign_ID:15683694
+Sent:8
+Campaign_ID:15683695
+Sent:8
+Campaign_ID:15683697
+Sent:8
+Campaign_ID:15683698
+Sent:8
+Campaign_ID:15683699
+Sent:8
+Campaign_ID:15683700
+Sent:8
+Campaign_ID:15683701
+Sent:8
+Totally sent: 64
+________________________________________
+51st Day Cohort
+Campaign_ID:15673898
+Sent:31
+Campaign_ID:16146369
+Sent:31
+Campaign_ID:16146370
+Sent:31
+Campaign_ID:16146372
+Sent:31
+Campaign_ID:16146373
+Sent:31
+Campaign_ID:16146374
+Sent:31
+Campaign_ID:16146376
+Sent:31
+Campaign_ID:16146377
+Sent:31
+Totally sent: 248
+________________________________________
+52nd Day Cohort
+Campaign_ID:15674708
+Sent:35
+Campaign_ID:16147164
+Sent:35
+Campaign_ID:16147165
+Sent:35
+Campaign_ID:16147166
+Sent:35
+Campaign_ID:16147167
+Sent:35
+Campaign_ID:16147168
+Sent:35
+Campaign_ID:16147169
+Sent:35
+Campaign_ID:16147170
+Sent:35
+Totally sent: 280
+________________________________________
+53rd Day Cohort
+Campaign_ID:15902063
+Sent:90
+Campaign_ID:15902064
+Sent:90
+Campaign_ID:16154020
+Sent:90
+Campaign_ID:16154021
+Sent:90
+Campaign_ID:16154022
+Sent:90
+Campaign_ID:16154023
+Sent:90
+Campaign_ID:16154024
+Sent:90
+Campaign_ID:16154025
+Sent:90
+Totally sent: 720
+________________________________________
