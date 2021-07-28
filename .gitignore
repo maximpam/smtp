@@ -2,3 +2,4 @@
 data/
 src/vendor
 src/sendpulse-rest-api-php
+src/PHPMailer-master

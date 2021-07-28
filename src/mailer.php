@@ -9,14 +9,14 @@ $mail = new PHPMailer;
 
 $mail->isSMTP();
 
-$mail->Host = ' ';
+$mail->Host = 'smtp-pulse.com';
 $mail->SMTPAuth = true;
-$mail->Username = ' ';
-$mail->Password = ' ';
+$mail->Username = 'maximpam@ukr.net';
+$mail->Password = 'G73CDCj5DbnASSc';
 $mail->SMTPSecure = 'ssl';
 $mail->Port = '465';
 $mail->CharSet = 'UTF-8';
-$mail->From = 'mail@service-rsv.ru';
+$mail->From = 'mail@kwebpage.ru';
 $mail->FromName = 'TEST';
 //$mail->addAddress('maximpam@gmail.com');
 $mail->isHTML(true);
