@@ -40,26 +40,26 @@ $mail->Debugoutput = function($str, $level) {
 };
 $mail->AltBody='TEST';
 
-//for ($i=0; $i <= 1000; $i++){
-//    $mail->addAddress('afftar0787@mail.ru');
-//    $result = $mail->send();
-//    $mail->clearAddresses();
-//    $mail->addAddress('afftar0787@yandex.ru');
-//    $result = $mail->send();
-//    $mail->clearAddresses();
-//    $mail->addAddress('afftar0787@hotmail.com');
-//    $result = $mail->send();
-//    $mail->clearAddresses();
-//    $mail->addAddress('maximpam@yandex.ru');
-//    $result = $mail->send();
-//    $mail->clearAddresses();
-//    $mail->addAddress('maximpam@mail.ru');
-//    $result = $mail->send();
-//    $mail->clearAddresses();
-//}
+for ($i=0; $i <= 1000; $i++){
+    $mail->addAddress('afftar0787@mail.ru');
+    $result = $mail->send();
+    $mail->clearAddresses();
+    $mail->addAddress('afftar0787@yandex.ru');
+    $result = $mail->send();
+    $mail->clearAddresses();
+    $mail->addAddress('afftar0787@hotmail.com');
+    $result = $mail->send();
+    $mail->clearAddresses();
+    $mail->addAddress('maximpam@yandex.ru');
+    $result = $mail->send();
+    $mail->clearAddresses();
+    $mail->addAddress('maximpam@mail.ru');
+    $result = $mail->send();
+    $mail->clearAddresses();
+}
 
-$mail->addAddress('maximpam@gmail.com');
-$result = $mail->send();
+//$mail->addAddress('maximpam@gmail.com');
+//$result = $mail->send();
 
 var_dump($result);
 ?>
